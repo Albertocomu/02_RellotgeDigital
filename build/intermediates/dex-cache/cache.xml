@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/DAM/Documents/Alberto/02_RellotgeDigital/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/DAM/Documents/Alberto/02_RellotgeDigital/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.1.1_37cd467ce4e993df01ae134f957efe1ecb22e404/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DAM/Documents/Alberto/02_RellotgeDigital/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/DAM/Documents/Alberto/02_RellotgeDigital/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.1.1_9afca82b76ec9c43dfc8765276bef54fd7feca24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DAM/Documents/Alberto/02_RellotgeDigital/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3ebea2c7a0b6a16be8c1b0051ef2c790b4ff8849">
+        <dex dex="/Users/DAM/Documents/Alberto/02_RellotgeDigital/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a3f76d59b307b86ea783c84ef9e591144c50f39e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DAM/Documents/Alberto/02_RellotgeDigital/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/DAM/Documents/Alberto/02_RellotgeDigital/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.1.1_65c70dde9f5899ffadb6e438d7cb59942f4ab93a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DAM/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/DAM/Documents/Alberto/02_RellotgeDigital/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.1.1_f6ccc5d088629d465ace6a178495659ec3bea5d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DAM/Documents/Alberto/02_RellotgeDigital/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0ba6e30d066abbb9d7448c84446548baf84b30ca">
+        <dex dex="/Users/DAM/Documents/Alberto/02_RellotgeDigital/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f95dd1d285e34ef7d3930213a672ad4a72a9c03c/classes.dex" />
+    </item>
+
+</items>
